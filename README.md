@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-      <title>Light Project</title>
+      <h1>Light Project</h1>
     </head>
     <body>
         <h2>Table of Contents</h2>
@@ -15,7 +15,7 @@
           <ul>
             <li>sudo apt-get update && sudo apt-get -y upgrade</li>
             <li>git clone https://github.com/0rion5/lightproject.git</li>
-            <li>cd lightproject</li>
+            <li>cd lightproject/light</li>
           </ul>
         </p>
         <h2 id="section2">Setup</h2>
@@ -27,6 +27,7 @@
         </p>
         <h2 id="section3">Usage</h2>
         <p>
+            Some modification will be needed to get the sunrise and sunset times correct for your specific location. to do this you will             want to navigate to https://dateandtime.info/citysunrisesunset.php?id= [ Your citys id number ] and in the search bar enter your city.
         </p>
     </body>
 </html>
